@@ -1,0 +1,22 @@
+MergeSort:
+
+El MergeSort es un algoritmo de ordenamiento basado en la técnica divide y venceras, es decir, dividir el problema en subproblemas más pequeños.
+La idea de este algoritmo es dividir la lista desordenada en n sublistas de un elemento, luego toma dos de esas sublistas y las mezcla para
+obtener una tercera sublista ordenada, repitiendo este proceso hasta que se obtenga una última sublista ordenada que será finalmente la lista
+original pero ordenada.
+
+El algoritmo MergeSort fue inventado por el matemático hungaro John Von Neumann en el año 1945, siendo utilizado por primera vez en el 
+EDVAC (Electronic Discrete Variable Automatic Computer). 
+
+Ordenando una lista de n objetos este algoritmo tiene un desempeño en tiempo de ejecución promedio de O(n log n), para el peor caso su desempeño
+es O(n log n) y en el mejor de los casos O(n log n). Gracias a ese desempeño el Merge Sort es más rápido que los algoritmos Bubble Sort,
+Insertion Sort y el Selection Sort.
+
+Referencias:
+
+https://en.wikipedia.org/wiki/Merge_sort#Analysis
+https://pereiratechtalks.com/analisis-de-algoritmos-de-ordenamiento/
+https://sites.google.com/site/programacioniiuno/temario/unidad-6---anlisis-de-algoritmos/algoritmo-mergesort
+http://www.pythondiario.com/2018/08/ordenamiento-por-mezcla-merge-sort.html
+
+
